@@ -1,0 +1,239 @@
+body{
+    margin: 4%; 
+    background-image: url("../img/background.jpg")
+}
+.grandiv{
+  width: 97,5%;
+  padding: 1%;
+  background-color: rgb(170, 170, 129);
+}
+header{
+    width: 1400px;
+    height: 100px;
+    background-color: rgb(155, 35, 35); 
+}
+header{
+    width: 100%;
+    height: 100%;
+    margin:0px;
+    text-align: center;
+}
+.budaheader{
+    display: inline-block;
+     vertical-align: middle;
+     margin: 10px;
+     overflow: hidden;
+}
+nav{
+    background-color: #333;
+}
+nav a { 
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    overflow:hidden;
+    padding: 14px 16px;
+  }
+nav ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    text-align:center;
+}
+nav li{
+    padding: 14px 16px;
+    display:inline-block;
+}
+  li a:hover {
+    background-color: #111;
+    color: white;
+  }
+  li{
+    font-size: 15px;
+    line-height: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  dl{
+    font-size: 15px;
+    line-height: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  p{
+    font-size: 15px;  
+    line-height: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: lowercase;
+    text-align:left;
+    text-transform:none; 
+  }
+    h2{
+        margin: 0%;
+        margin-bottom: 1%;
+        margin-right: 50%;
+        border-bottom: 1px solid #111;
+        border-width: 10px;
+        font-size: 30px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: relative;
+        padding-bottom: 0%;
+    }
+    h3{
+        margin: 0%;
+        border-bottom: 1px solid #111;
+        font-size: 20px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: relative;
+        padding-bottom: 0%; 
+    }
+
+  .centrado{
+      text-align: center;
+  }
+
+#contenedor{ 
+    padding: 10px; 
+    width: 100%;
+    overflow: auto; 
+}
+
+#texto{
+   float: left;
+   width: 59%;
+}
+
+#imagen{
+   width:40%;
+   float: right;
+}
+
+  #granbuda{
+    padding: 10px; 
+    width: 100%;
+    overflow: auto; 
+  }
+  #devas{
+    width: 23%;
+    float: left;
+  }
+#texto2{ 
+    float: right;
+    width: 70%;
+    }
+  
+    #contenedor2{
+    width: 100%;
+		height: 100%;
+		margin: 2px;
+    }
+
+  #estatua{
+    width:35%;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:10px;
+    margin: 2px;
+    overflow: hidden;
+  }
+  #teleferico{
+		margin-top:10px;
+		width:30%;
+		display:inline-block;
+        margin: 2px;
+        overflow: hidden;
+		}
+
+        #caraestatua{
+    width:20%;
+    margin-top: 10px;
+    display:inline-block;
+    vertical-align:top;
+    margin: 2px;
+        }
+
+
+  .recomedaciones{
+    display: inline-block;
+    width: 700px;
+    height: 600px;
+}
+
+#contenedor3{
+    width: 100%;
+		height: 100%;
+		margin: 2px;
+        
+}
+
+  #budacentrado{
+    width:40%;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:10px;
+    margin: 2px;
+    overflow: hidden;
+  }
+
+  #budadecostado{
+    width:40%;
+    margin-top: 10px;
+    display:inline-block;
+    vertical-align:top;
+    margin: 2px;
+  }
+
+
+#contenedor4{
+    width: 100%;
+		height: 100%;
+		margin:2px;
+}
+  #budaentero{
+    width:32,5%;
+    margin-top: 10px;
+    display:inline-block;
+    margin: 2px;
+     }
+  
+    #ofrendadedevas{
+        width:30%;
+        display:inline-block;
+        vertical-align:top;
+        margin-top:10px;
+        margin: 2px;
+    }
+
+#granbuda5{
+    margin-top: 10px;
+    width:71%;
+    display:inline-block;
+    overflow: hidden;
+}
+    #contenedor5{
+        width: 100%;
+		height: 100%;
+		margin:0px;
+    }
+    #fotocarnet{
+        margin-top: 10px;
+        width:17%;
+        display:inline-block;
+        vertical-align:top;
+        margin: 15px;
+    }
+    #listadatos{
+        width:55%;
+        display:inline-block;
+        vertical-align: top;
+        margin-bottom: 10px;
+        margin: 2px;
+    }
+    footer{
+        background-color: rgb(155, 35, 35);
+        margin: 0%;
+        padding: 0%;
+    }
+
+    #master{
+      display:inline-block;
+        text-align:left;
+    }
